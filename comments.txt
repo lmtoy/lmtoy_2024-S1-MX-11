@@ -1,4 +1,6 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
 
-111671 test comment
+111671 [alaina] QAFAIL: bad chassis 3
+
+111655_111670 [11/12] Detection ~97GHz, ~110.2GHz ; rm bad chassis/board 1/2
