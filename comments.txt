@@ -3,4 +3,4 @@
 
 111671 [alaina] QAFAIL: bad chassis 3        # qagrade=-1
 
-111655_111670 [11/12] Detection ~97GHz, ~110.2GHz ; rm bad chassis/board 1/2    # qagrade=3
+111655_111670 [11/12] Detection ~97GHz, ~110.2GHz ; rm bad chassis/board 1/2    # qagrade=2
